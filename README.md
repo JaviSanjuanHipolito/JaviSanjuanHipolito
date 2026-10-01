@@ -1,16 +1,24 @@
-## Hi there 👋
+# Javier Sanjuan Hipolito
 
-<!--
-**JaviSanjuanHipolito/JaviSanjuanHipolito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ¿Quien soy?
+Soy un estudiante de 2º de DAW que prefiere pelearse con una base de datos antes que con un botón de CSS (aunque también lo hago, no me juzgues).
 
-Here are some ideas to get you started:
+Mi plan es sencillo: aprender a programar de verdad, entender la IA y acabar haciendo grandes proyectos para grandes empresas. De momento, estoy en la fase de "grandes proyectos para mi propio ordenador".
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Mi arsenal
+- MySQL	Se me da bien. Mis consultas y yo nos entendemos 
+- PHP	Mi zona de confort del backend 
+- HTML + CSS	Lo justo para que no de miedo mirar lo que hago 
+- Git	Aprendiendo a que mis commits no se llamen "cambios" 
+
+No domino ninguna todavía. Pero quien domina algo en 2º de carrera miente o es un robot.
+
+### Proyectos
+#### Realm - Battle
+Un juego de peleas en el que simula una pelear por turnos pensado en pokemon, con sus diferentes estadisticas, personajes y estrategias. Porque el mejor método para aprender backend es pegarse con algo, aunque sea virtualmente.
+
+Repo: (https://github.com/JaviSanjuanHipolito/Realm-Battle.git)
+Tecnologías: Php, CSS, Html, MySQL
+
+
+
